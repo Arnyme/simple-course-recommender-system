@@ -1,0 +1,43 @@
+courseId,Faculty,Course,Level,Related_Interests
+1,Accounting Banking and Finance,Bachelor of Accounting (B.Acc),Undergraduate,Financial Analysis|Auditing|Accounting|Corporate Finance|Financial Modeling
+2,Accounting Banking and Finance,Bachelor of Banking and Finance (BBF),Undergraduate,Investment Strategies|Financial Management|Banking|Corporate Finance|Risk Management
+3,Accounting Banking and Finance,Ordinary Diploma in Banking (ODB),Diploma,Commercial Banking|Retail Banking|Financial Services|Risk Management|Investment Analysis
+4,Accounting Banking and Finance,Ordinary Diploma in Accounting (ODA),Diploma,Financial Reporting|Cost Accounting|Bookkeeping|Taxation|Auditing
+5,Accounting Banking and Finance,Basic Technician Certificate in Accountancy (BTCA),Undergraduate,Bookkeeping|Tax Preparation|Accounting|Financial Reporting|Auditing
+6,Accounting Banking and Finance,Basic Technician Certificate in Banking and Finance (BTCBF),Undergraduate,Commercial Banking|Retail Banking|Financial Services|Investment Analysis|Risk Management
+7,Computing and Mathematics,Bachelor of Science in Information Technology (BSc IT),Undergraduate,Software Development|Database Management|Network Administration|Cybersecurity|Data Analysis
+8,Computing and Mathematics,Bachelor in Computer Science (BSc CS),Undergraduate,Software Development|Algorithms|Data Structures|Machine Learning|Artificial Intelligence
+9,Computing and Mathematics,Ordinary Diploma in Information Technology (ODIT),Diploma,Network Administration|Database Management|IT Support|Cybersecurity|Systems Analysis
+10,Computing and Mathematics,Ordinary Diploma in Computer Science (ODCS),Diploma,Software Development|Algorithms|Data Structures|Web Development|Database Design
+11,Computing and Mathematics,Basic Technician Certificate in Computing and Information Technology (BTCC & IT),Undergraduate,IT Support|Network Administration|Database Management|Hardware Troubleshooting|Software Installation
+12,Insurance and Social Protection,Bachelor of Science in Insurance and Risk Management (BSc IRM),Undergraduate,Insurance Policies|Risk Assessment|Financial Planning|Claims Management|Underwriting
+13,Insurance and Social Protection,Bachelor of Science in Actuarial Science (BSc AS),Undergraduate,Statistics|Risk Assessment|Financial Mathematics|Data Analysis|Predictive Modeling
+14,Insurance and Social Protection,Bachelor of Science in Social Protection (BSc SP),Undergraduate,Social Policy|Public Health|Community Development|Welfare Systems|Policy Analysis
+15,Insurance and Social Protection,Ordinary Diploma in Insurance and Risk Management (ODIRM),Diploma,Insurance Policies|Risk Assessment|Claims Management|Underwriting|Insurance Law
+16,Insurance and Social Protection,Ordinary Diploma in Social Protection (ODSP),Diploma,Social Policy|Public Health|Community Development|Welfare Systems|Social Work
+17,Insurance and Social Protection,Basic Technician Certificate in Insurance and Social Protection (BTCISP),Undergraduate,Insurance Policies|Social Policy|Risk Assessment|Welfare Systems|Community Outreach
+18,Insurance and Social Protection,Basic Technician Certificate in Social Protection (BTCSP),Undergraduate,Social Policy|Public Health|Community Development|Social Work|Policy Analysis
+19,Economics and Management Science,Bachelor of Science in Taxation (BSc Taxation),Undergraduate,Tax Law|Financial Planning|Auditing|Public Finance|Tax Consulting
+20,Economics and Management Science,Ordinary Diploma in Taxation (ODTM),Diploma,Tax Law|Financial Planning|Auditing|Tax Compliance|Tax Consulting
+21,Accounting Banking and Finance,MSc in Finance and Investment,Masters,Investment Strategies|Financial Analysis|Portfolio Management|Corporate Finance|Financial Modeling
+22,Accounting Banking and Finance,MSc in Accounting and Finance,Masters,Financial Analysis|Auditing|Financial Reporting|Corporate Finance|Taxation
+23,Accounting Banking and Finance,MSc in Finance,Masters,Investment Strategies|Financial Analysis|Portfolio Management|Risk Management|Financial Modeling
+24,Accounting Banking and Finance,Postgraduate Diploma in Financial Management (PGDFM),Postgraduate,Financial Analysis|Financial Management|Investment Strategies|Corporate Finance|Risk Management
+25,Accounting Banking and Finance,Postgraduate Diploma in Accountancy (PGDA),Postgraduate,Financial Reporting|Auditing|Cost Accounting|Taxation|Financial Analysis
+26,Economics and Management Science,MSc in Human Resource Management,Masters,Organizational Behavior|Recruitment|Employee Development|Performance Management|Training and Development
+27,Economics and Management Science,MBA in International Business,Masters,International Trade|Business Strategy|Marketing|Global Finance|Cross-Cultural Management
+28,Economics and Management Science,MBA in International Trade and Logistic Operations,Masters,Supply Chain Management|International Trade|Logistics|Operations Management|Import/Export Regulations
+29,Economics and Management Science,Postgraduate Diploma in Business Administration (PGDBA),Postgraduate,Business Strategy|Marketing|Operations Management|Human Resources|Financial Management
+30,Economics and Management Science,Postgraduate Diploma in Human Resources Management (PGDHRM),Postgraduate,Organizational Behavior|Recruitment|Employee Development|Performance Management|Labor Relations
+31,Economics and Management Science,Postgraduate Diploma in Tax Management (PGDTM),Postgraduate,Tax Law|Financial Planning|Auditing|Tax Compliance|Tax Consulting
+32,Insurance and Social Protection,MSc in Insurance and Actuarial Science (MSc IAS),Masters,Insurance Policies|Risk Assessment|Financial Mathematics|Actuarial Science|Predictive Modeling
+33,Insurance and Social Protection,MSc in Social Protection Policy and Development (MSc SPPD),Masters,Social Policy|Public Health|Community Development|Welfare Systems|Policy Analysis
+34,Insurance and Social Protection,Postgraduate Diploma in Insurance and Risk Management (PGDIRM),Postgraduate,Insurance Policies|Risk Assessment|Claims Management|Underwriting|Insurance Law
+35,Computing and Mathematics,MSc in Information Technology and Management (MSc IT & Management),Masters,Software Development|Database Management|IT Project Management|Cybersecurity|Systems Analysis
+36,Certificate Programs,Certificate in Accountancy,Certificate,Bookkeeping|Tax Preparation|Accounting|Financial Reporting|Auditing
+37,Certificate Programs,Certificate in Banking and Finance,Certificate,Commercial Banking|Retail Banking|Financial Services|Investment Analysis|Risk Management
+38,Certificate Programs,Certificate in Taxation,Certificate,Tax Law|Financial Planning|Auditing|Tax Compliance|Tax Consulting
+39,Certificate Programs,Certificate in Computer and Information Technology,Certificate,IT Support|Network Administration|Database Management|Hardware Troubleshooting|Software Installation
+40,Certificate Programs,Certificate in Insurance and Social Protection,Certificate,Insurance Policies|Social Policy|Risk Assessment|Welfare Systems|Community Outreach
+41,Certificate Programs,Certificate in Social Protection,Certificate,Social Policy|Public Health|Community Development|Social Work|Policy Analysis
+42,Certificate Programs,Basic Technician Certificate in Computing and Information Technology,Certificate,IT Support|Network Administration|Database Management|Hardware Troubleshooting|Software Installation
